@@ -10,7 +10,7 @@ Simply run `forge test` (or `forge test --via-ir` if there is a gas issue). All 
 You can run a unique file by adding the `--match-path test/x.t.sol` parameter.
 `forge test --via-ir --match-path test/6_ticketSelling.sol`
 
-Your contract file must be called `ticketingSystem.sol`, the contract name must be `TicketingSystem`.
+Place a contract file called `ticketingSystem.sol` in src/, the contract name must be `TicketingSystem`.
 
 ## Foundry
 
