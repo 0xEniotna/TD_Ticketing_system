@@ -12,6 +12,10 @@ You can run a unique file by adding the `--match-path test/x.t.sol` parameter.
 
 Place a contract file called `ticketingSystem.sol` in src/, the contract name must be `TicketingSystem`.
 
+CLONE THE REPO THEN:
+Install the dependencies. Deps in Foudry are git submodules, you have to run git submodule init and git submodule update
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
